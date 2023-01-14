@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="37.384102mm"
+   height="60.168827mm"
+   viewBox="0 0 37.384101 60.168827"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="HUB 5168+_pcb.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#8cffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.2842761"
+     inkscape:cx="126.82181"
+     inkscape:cy="87.398925"
+     inkscape:document-units="mm"
+     inkscape:current-layer="silkscreen"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     objecttolerance="19.3"
+     gridtolerance="12.9"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-others="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1269"
+       units="mm"
+       spacingx="2.54"
+       spacingy="2.54"
+       originx="-115.02869"
+       originy="-39.923139" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-115.0287,-39.923143)"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="silkscreen"
+       inkscape:label="Layer 4">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 115.0787,70.00755 V 39.973143 h 18.64205 18.64205 V 70.00755 100.04197 H 133.72075 115.0787 Z"
+         id="pcb"
+         inkscape:label="#pcb" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="copper1"
+       inkscape:label="Layer 2">
+      <g
+         inkscape:groupmode="layer"
+         id="copper0"
+         inkscape:label="Layer 3">
+        <circle
+           id="circle5116"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="77.25354"
+           cx="151.09169" />
+        <circle
+           id="circle5114"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="74.713531"
+           cx="151.09169" />
+        <circle
+           id="circle5112"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="72.173538"
+           cx="151.09169" />
+        <circle
+           id="circle5110"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="69.633545"
+           cx="151.09169" />
+        <circle
+           id="circle5108"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="67.093536"
+           cx="151.09169" />
+        <circle
+           id="circle5106"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="64.553535"
+           cx="151.09169" />
+        <circle
+           id="circle5104"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="62.013542"
+           cx="151.09169" />
+        <circle
+           id="circle5102"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="59.473549"
+           cx="151.09169" />
+        <circle
+           id="circle5100"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="56.933548"
+           cx="151.09169" />
+        <circle
+           id="circle5098"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="54.393555"
+           cx="151.09169" />
+        <circle
+           id="circle5096"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="51.853539"
+           cx="151.09169" />
+        <circle
+           id="circle5094"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="49.313545"
+           cx="151.09169" />
+        <circle
+           id="circle5092"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="46.773544"
+           cx="151.09169" />
+        <circle
+           id="circle5090"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="44.233543"
+           cx="151.09169" />
+        <circle
+           id="connector60pin-14-3-2"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="72.173737"
+           cx="148.09123" />
+        <circle
+           id="connector60pin-76-2-7"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="69.633728"
+           cx="148.09123" />
+        <circle
+           id="connector60pin-62"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="41.693741"
+           cx="151.09169" />
+        <circle
+           id="connector60pin-1-6-9"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="46.773544"
+           cx="147.09123" />
+        <circle
+           id="connector60pin-2-4-0"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="44.233543"
+           cx="147.09123" />
+        <circle
+           id="connector60pin-62-2"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="41.693741"
+           cx="147.09123" />
+        <circle
+           id="connector60pin-28"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           cy="77.253738"
+           cx="116.3827"
+           r="0.61870062" />
+        <circle
+           id="connector60pin-14"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="72.173737"
+           cx="116.3827" />
+        <circle
+           id="connector60pin-5"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="74.71373"
+           cx="116.3827" />
+        <circle
+           id="connector60pin-76"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="69.633728"
+           cx="116.3827" />
+        <circle
+           id="connector60pin-18"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="64.553734"
+           cx="116.3827" />
+        <circle
+           id="connector60pin-6"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="67.093735"
+           cx="116.3827" />
+        <circle
+           id="connector60pin-95"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="62.013741"
+           cx="116.3827" />
+        <circle
+           id="connector60pin-12"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="59.473755"
+           cx="116.3827" />
+        <circle
+           id="connector60pin-21"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.337;stroke-miterlimit:4;stroke-dasharray:none"
+           r="0.61870062"
+           cy="54.393738"
+           cx="116.3827" />
+        <circle
+           id="connector60pin-78"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="56.933739"
+           cx="116.3827" />
+        <circle
+           id="connector60pin-9"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="51.853752"
+           cx="116.3827" />
+        <circle
+           id="connector60pin-7"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="49.313751"
+           cx="116.3827" />
+        <circle
+           id="connector60pin-1"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="46.773735"
+           cx="116.3827" />
+        <circle
+           id="connector60pin-2"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="44.233742"
+           cx="116.3827" />
+        <circle
+           id="connector60pin"
+           connectorname="RESET"
+           gorn="0.4.0.0.0.136"
+           style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.3374"
+           r="0.61870062"
+           cy="41.693741"
+           cx="116.3827" />
+      </g>
+    </g>
+  </g>
+</svg>
